@@ -54,6 +54,10 @@ Abril, 2026
 
 ---
 
+<br>
+<br>
+<br>
+
 ## Registro de Versiones del Informe <!-- omit in toc -->
 
 <div align="center">
