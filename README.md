@@ -14,7 +14,7 @@ Facultad de Ingenería, Carrera de Ingeniería de Software<br>
 **Profesor:** Iván Robles Fernández<br>
 
 **Nombre del startup:** InnovaTech<br>
-**Nombre del producto:** LifeCare<br>
+**Nombre del producto:** MindCare<br>
 Abril, 2026
 
 #### Relación de integrantes <!-- omit in toc -->
@@ -103,7 +103,7 @@ Abril, 2026
 
 ## Project Report Collaboration Insights <!-- omit in toc -->
 
-* **URL del Repositorio de GitHub:** https://github.com/InnovaTechStudio/LifeCare-1ASI0729-OS
+* **URL del Repositorio de GitHub:** https://github.com/InnovaTechStudio/MindCare-1ASI0729-OS
 * **AV1:** *Pendiente*
 
 ---
@@ -356,7 +356,7 @@ Abril, 2026
   </tr>
   <tr>
     <th colspan="2"></th>
-    <th style="text-align: center;">LifeCare</th>
+    <th style="text-align: center;">MindCare</th>
     <th style="text-align: center;">Competidor 1</th>
     <th style="text-align: center;">Competidor 2</th>
     <th style="text-align: center;">Competidor 3</th>
