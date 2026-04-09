@@ -399,7 +399,10 @@ Supuestos Críticos
 
 ##### 1.2.2.3. Lean UX Hypothesis Statements
 
-*Pendiente*
+<p align="justify">
+Las hipótesis en Lean UX permiten validar las suposiciones del equipo mediante la definición de resultados esperados. Estas se formulan con base en los usuarios, el valor que se busca generar y las métricas que permitirán comprobar si la solución es efectiva.
+</p>
+
 
 ##### 1.2.2.4. Lean UX Canvas
 
