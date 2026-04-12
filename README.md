@@ -1041,7 +1041,9 @@ Se busca transformar esta percepción mediante transparencia y comunicación.</p
 
 #### 2.3.1. User Personas
 
-*Pendiente*
+<img src="assets/user-person/us-tm.png" alt="tm">
+
+--Pendiente 2 segmentos
 
 #### 2.3.2. User Task Matrix
 
